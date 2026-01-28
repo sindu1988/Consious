@@ -1,0 +1,40 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Development
+node_modules/
+npm-debug.log
+.env
+.env.local
+
+# Optional: Uncomment if you don't want to track certain images
+# images/*.psd
+# images/*.ai
+# images/originals/
